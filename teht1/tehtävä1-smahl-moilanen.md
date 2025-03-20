@@ -26,8 +26,11 @@ Lippukunnan aktiivijäsenet olivat mukana eri yhdistyksen purjehdustoiminnassa j
 
 Tulkintamme mukaan tässä tapauksessa toteutui artikkelin kohdat 3 ja 4, kun veneen käytölle ei ollut kattavaa tai loppuun asti mietittyä suunnitelmaa. Lisäksi projektin toteutus oli enemmän kiinni pienen porukan innostumisesta eikä muuta jäsenistöä saatu sitoutettua purjeveneen käyttöön.
 
-### Esimerkki 2
+### Anonyymi työmaa
 
+Kohde oli uudisrakennus, johon oli tarkoitus rakentaa tontin toiselle lohkolle yksityiselle palveluntarjoajalle toimitilat, sekä toiseen lohkoon asuinrakennuksia + parkkihalli. Aikatauluihin ei oltu jätetty löysää, minkä myötä kaikilla oli turha kiiren tuntu. Miltei jokaista betonirakenteen valamisen ajankohtaa jouduttiin siirtämään myöhemmäksi, joten tiukat aikataulut eivät olleet kellekkään hyödyksi. Turhan kiireen takia työmaa oli myös todella sotkuinen, mikä lisäsi onnettomuuksien riskiä. Työnjohdon ja työntekijöiden välillä oli suurta ongelmaa keskeisen informaation välityksen osalta. Useimmiten työntekijät eivät saaneet olleenkaan tai saivat liian myöhään työnjohdolta oman työnsä rytmittämisen ja suunnittelun kannalta keskeistä informaatiota (aikataulut, missä ja milloin, mikä rakennusvaihe oli missäkin kohtaa keskeisin prioriteetti, jnejne...). 
+
+Kyseisessä projektissa toteutui epäonnistumisen osalta ainakin kohdat 2, 4 ja 5.  Työmaalla kävi pääurakoitsijan ylintä johtoa kaukaa asti ihmettelemässä ja arvioimassa työmaata. Ihmettelyn ja arvioinnin jälkeen kaverit totesivat, että työmaa on yrityksen historian pohjanoteeraus. Suunnitelmat olivat hyvät, mutta toteutus oli katastrofaalisen huonoa.
 
 ### Esimerkki 3
 

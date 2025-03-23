@@ -32,12 +32,20 @@ Kohde oli uudisrakennus, johon oli tarkoitus rakentaa tontin toiselle lohkolle y
 
 Kyseisessä projektissa toteutui epäonnistumisen osalta ainakin kohdat 2, 4 ja 5.  Työmaalla kävi pääurakoitsijan ylintä johtoa kaukaa asti ihmettelemässä ja arvioimassa työmaata. Ihmettelyn ja arvioinnin jälkeen kaverit totesivat, että työmaa on yrityksen historian pohjanoteeraus. Suunnitelmat olivat hyvät, mutta toteutus oli katastrofaalisen huonoa.
 
-### Esimerkki 3
+### Airbus A380
 
+Airbus käytti 25 miljardia euroa kehitellääkseen maailman suurimman matkustajalentokoneen, mutta joutui lopettamaan projektin kannattamattomana. Lentokonemallin kehitystyö oli huikean kallista ja se kesti kauan. Mallin toimivuuteen kohdistui kritiikkiä jo ennen ensimmäisen koneen valmistumista. Lentokone oli niin suuri, että lentokenttiä jouduttiin muokkaamaan sitä varten. Myös lentoalan tarpeet muuttuivat siten, että enää ei kaivattu valtavia koneita vaan useampia, halpoja ja pieniä koneita.
+
+Projektin epäonnistuminen johtui monesta tekijästä, mutta tärkein oli tulkintamme mukaan väärä käsitys markkinoiden kysynnästä. Tämä voidaan laskea kuuluvan esimerkkiartikkelin kohtaan 2.
 
 ## Kolme esimerkkiä onnistuneesta projektista
 
-### Esimerkki 1
+### Kriittisen potilaan ensihoitotilanne
+
+Ensihoidossa kriittisen hätätilapotilaan hoidossa on monta tärkeää komponenttia, jotka yhdistyvät yllättävän hyvin yritysmaailman projektin hallintaan. Yhtenä esimerkkinä toimii johtajuuden yksiselitteisyys. Mitä kiireellisempi tilanne on kyseessä, sitä tärkeämpää on selkeä johtajuus tilanteen hallinnassa: Yksi henkilö tai taho tekee lopulliset päätökset ja muut osapuolet ovat osaltaan vastuussa välittämään tietoa päättävälle osapuolelle.
+
+Kääntäen voidaan ajatella, että mitä hitaampi prosessi on kyseessä, sitä enemmän tulisi konsultoida ja osallistaa koko organisaatiota muutoksen tai projektin suunnittelussa ja toteutuksessa.
+
 
 ### Esimerkki 2
 

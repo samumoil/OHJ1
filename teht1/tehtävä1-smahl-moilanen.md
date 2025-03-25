@@ -47,6 +47,17 @@ Ensihoidossa kriittisen hätätilapotilaan hoidossa on monta tärkeää komponen
 Kääntäen voidaan ajatella, että mitä hitaampi prosessi on kyseessä, sitä enemmän tulisi konsultoida ja osallistaa koko organisaatiota muutoksen tai projektin suunnittelussa ja toteutuksessa.
 
 
-### Esimerkki 2
+### Anonyymi työmaa #2
 
-### Esimerkki 3
+Onnistunutta ja epäonnistunutta työmaata yhdisti onnistumistekijöistä lähinnä kohta 7. Molempia varten oli tehty kattavat esiselvitystyöt ja suunnitelmat. Onnistunut työmaa oli yhtälailla monimutkainen, päällekkäisistä ja samanaikaisista vaiheista koostuva projekti. Tontille rakennettiin useita erillisiä asuinrakennuksia sekä iso parkkihalli. 
+Työmaalla erityisen hyvin onnistui kommunikaatio, joka on varsinkin suunnitteluvaiheen jälkeisessä rakennusvaiheessa rakennusprojektin onnistumisen kannalta aivan keskiössä. Keskeinen informaatio välittyi oikeaan aikaan  ja toisaalta riskien ennakointia käytiin kattavasti läpi jokaisen rakennusvaiheen alkaessa sekä rakennusvaiheen edetessä. Rakennusvaiheet myös toteutettiin hyviksi ja turvallisiksi todetuilla käytännöillä ja kaikille oli selvää, että kyseisistä käytännöistä pidetään kiinni. Voisi kuvailla, että pelisäännöt olivat jokaiselle samat ja selkeät. Työnjohto ohjasi projektia eteenpäin todella taidokkaasti. Työnjohdon yleinen haaste on se, että miten vastata ylemmän johtoportaan odotuksiin, ilman että suututtaa rakentajat mahdottomilla odotuksilla ja vaatimuksilla... Ja toisaalta miten olla suututtamatta ylempää johtoporrasta, jos ja kun  aikatauluihin sekä prosessiin tulee muutoksia. Työmaa oli erittäin SMART.
+
+Projektissa toteutui oikeastaan jokainen kohdista 1-8. Rakennuskokonaisuus valmistui suunniteltua aikataulua aiemmin, mitä harvemmin rakennusalalla tapahtuu.
+
+
+### Bombardier C-series/Airbus A220
+
+Onnistunut tuote, mutta todella haastava ja kunnianhimoinen projekti,  joka meinasi johtaa Bombardierin konkurssiin. Tämä voisi olla samaan aikaan onnistuneissa ja epäonnistuneissa projekteissa. Bombardier pyrki lyömään itsensä läpi uusille markkinoille, tarkoituksena kilpailla Boeingin ja Airbusin kanssa. Bombardierilla tosin ei ollut aiempaa kokemusta kyseisen kokoluokan lentokoneiden valmistamisesta, minkä lisäksi yritys pyrki valmistamaan lentokoneen käyttäen lukuisia uusia innovaatioita, joiden skaalaaminen massatuotantoon osoittautui hankalaksi. Yrityksellä oli todella selvä visio siitä, että millainen härveli oli tarkoitus rakentaa, mutta heikohko ennakointi ja varautuminen siihen, että miten sopeutua kehitysvaiheen mahdollisiin haasteisiin.
+
+Lopputuloksena oli siis lentokone, josta tuli lopulta Airbus A220. Bombardier joutui siis myymään/antamaan projektin eteenpäin, koska muuten yrityksellä olisi ollut edessä konkurssi. Teknisesti projekti siis onnistui erinomaisesti, A220 ajatellaan olevan tällä hetkellä kokoluokkansa paras lentokone (lentoyhtiöiden näkökulmasta). Samalla projekti myös epäonnistui, koska riskienhallintaan ja ennakointiin ei oltu varauduttu riittävissä määrin, minkä myötä budjetti räjähti käsiin.
+

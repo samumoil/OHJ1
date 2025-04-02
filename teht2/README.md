@@ -4,7 +4,7 @@ Ota dia “Tuotedokumentointi vaiheittain (alustavat versiot oranssilla) ” tä
 
 Etsi dian listan vähintään viidestä eri tuotedokumentaation tyypistä lisätietoa muistaen lähdekriittisyys
 
-Suositus mikä on jatkon kannalta hyödyllistä ottaa tähän esitykseesi ovat erityisesti seuraavat (nämä boldattu alla)
+Suositus mikä on jatkon kannalta hyödyllistä ottaa tähän esitykseesi ovat erityisesti seuraavat (nämä ****** alla)
 - alustava sopimus esitutkimuksesta
 - alustava projektisuunnitelma esitutkimuksesta
 - dokumentointisuunnitelma esitutkimuksesta
@@ -18,23 +18,23 @@ Raporttisi voi olla suhtkoht lyhyt eli max. neljä sivua.
 ______________
 
 ### Esitutkimus
-- **alustava sopimus**
-- **alustava projektisuunnitelma**
+- ***alustava sopimus***
+- ***alustava projektisuunnitelma***
 - alustava toiminnallinen määrittely  
 - alustava toteutussuunnittelu  
 - alustava testaussuunnittelu
 - alustava tuotteenhallintasuunnitelma  
 - alustava laatusuunnitelma  
-- **dokumentointisuunnitelma**
+- ***dokumentointisuunnitelma***
 
 ### Määrittely
 - alustava tekninen määrittely  
 - alustava käyttöohje
 - tarkennettu sopimus  
 - toiminnallinen määrittely  
-- **tarkennettu testaussuunnittelu (järjestelmä- ja hyväksymistestaus)**
-- **tarkennettu tuotteenhallintasuunnitelma**  
-- **tarkennettu laatusuunnitelma**
+- ***tarkennettu testaussuunnittelu (järjestelmä- ja hyväksymistestaus)***
+- ***tarkennettu tuotteenhallintasuunnitelma***  
+- ***tarkennettu laatusuunnitelma***
 
 ### Suunnittelu
 - alustava asennusohje

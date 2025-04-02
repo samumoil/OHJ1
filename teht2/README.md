@@ -4,7 +4,7 @@ Ota dia “Tuotedokumentointi vaiheittain (alustavat versiot oranssilla) ” tä
 
 Etsi dian listan vähintään viidestä eri tuotedokumentaation tyypistä lisätietoa muistaen lähdekriittisyys
 
-Suositus mikä on jatkon kannalta hyödyllistä ottaa tähän esitykseesi ovat erityisesti seuraavat (nämä ****** alla)
+Suositus mikä on jatkon kannalta hyödyllistä ottaa tähän esitykseesi ovat erityisesti seuraavat (nämä ***boldattu*** alla)
 - alustava sopimus esitutkimuksesta
 - alustava projektisuunnitelma esitutkimuksesta
 - dokumentointisuunnitelma esitutkimuksesta

@@ -19,7 +19,7 @@ ______________
 
 ### Esitutkimus
 - ***alustava sopimus***
-- ***alustava projektisuunnitelma***
+- ~~***alustava projektisuunnitelma***~~ (Eemeli)
 - alustava toiminnallinen määrittely  
 - alustava toteutussuunnittelu  
 - alustava testaussuunnittelu

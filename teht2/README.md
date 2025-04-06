@@ -25,7 +25,7 @@ ______________
 - alustava testaussuunnittelu
 - alustava tuotteenhallintasuunnitelma  
 - alustava laatusuunnitelma  
-- ~~***dokumentointisuunnitelma***~~ (Samu
+- ~~***dokumentointisuunnitelma***~~ (Samu)
 
 ### Määrittely
 - alustava tekninen määrittely  

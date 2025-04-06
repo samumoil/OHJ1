@@ -18,7 +18,7 @@ Raporttisi voi olla suhtkoht lyhyt eli max. neljä sivua.
 ______________
 
 ### Esitutkimus
-- ***alustava sopimus***
+- ~~***alustava sopimus***~~ (Eemeli)
 - ~~***alustava projektisuunnitelma***~~ (Eemeli)
 - alustava toiminnallinen määrittely  
 - alustava toteutussuunnittelu  

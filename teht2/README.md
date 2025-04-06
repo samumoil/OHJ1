@@ -25,14 +25,14 @@ ______________
 - alustava testaussuunnittelu
 - alustava tuotteenhallintasuunnitelma  
 - alustava laatusuunnitelma  
-- ***dokumentointisuunnitelma***
+- ~~***dokumentointisuunnitelma***~~ (Samu
 
 ### Määrittely
 - alustava tekninen määrittely  
 - alustava käyttöohje
 - tarkennettu sopimus  
 - toiminnallinen määrittely  
-- ***tarkennettu testaussuunnittelu (järjestelmä- ja hyväksymistestaus)***
+- ~~***tarkennettu testaussuunnittelu (järjestelmä- ja hyväksymistestaus)***~~ (Samu)
 - ***tarkennettu tuotteenhallintasuunnitelma***  
 - ***tarkennettu laatusuunnitelma***
 

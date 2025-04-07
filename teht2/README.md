@@ -34,7 +34,7 @@ ______________
 - toiminnallinen määrittely  
 - ~~***tarkennettu testaussuunnittelu (järjestelmä- ja hyväksymistestaus)***~~ (Samu)
 - ***tarkennettu tuotteenhallintasuunnitelma***  
-- ***tarkennettu laatusuunnitelma***
+- ~~***tarkennettu laatusuunnitelma***~~(Anttoni)
 
 ### Suunnittelu
 - alustava asennusohje

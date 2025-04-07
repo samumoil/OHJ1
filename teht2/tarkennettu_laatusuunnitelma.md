@@ -1,4 +1,4 @@
-### Tarkennettu laatusuunnitelma.
+### Tarkennettu laatusuunnitelma
 
 Tarkennettu laatusuunnitelma parsitaan kasaan määrittelyvaiheessa ja sitä edeltää esitutkimusvaiheen alustava laatusuunnitelma. Laatusuunnitelma on käsittääkseni projektikohtainen (eksyin erilaisiin laatuun liittyvien termien ja käsitteiden viidakkoon aika pitkäksi aikaa...) suunnitelma, joka pitää sisällään useita erilaisia projektin laatuun liittyviä dokumentteja, joista jokaisella on puolestaan oma tarkoituksensa. 
 

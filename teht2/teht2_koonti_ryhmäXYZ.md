@@ -40,7 +40,7 @@ Suunnitelman tulisi määritellä projektille mm.:
 
 ## Dokumentointisuunnitelma
 
-Dokumentaatiosuunnitelmassa määritellään, mitä asioita kirjataan, mihin asiat kirjataan, kuinka tarkasti kirjataan ja missä muodossa kirjataan. Dokumentaatiota tapahtuu monella tasolla: Koodin seassa kommentteina, sähköpostiketjujen keskusteluissa, tapaamisten muistioissa ja virallisissa sopimuksissa. Kaikkien näiden osalta tulisi dokumentointisuunnitelmassa määritellä, miten kutakin dokumentaation muotoa tallennetaan ja kuinka paljon.
+Dokumentointisuunnitelmassa määritellään, mitä asioita kirjataan, mihin asiat kirjataan, kuinka tarkasti kirjataan ja missä muodossa kirjataan. Dokumentaatiota tapahtuu monella tasolla: Koodin seassa kommentteina, sähköpostiketjujen keskusteluissa, tapaamisten muistioissa ja virallisissa sopimuksissa. Kaikkien näiden osalta tulisi dokumentointisuunnitelmassa määritellä, miten kutakin dokumentaation muotoa tallennetaan ja kuinka paljon.
 
 Ohjelmistoprojektin elinkaaressa ylläpitovaihe jää usein vähälle huomiolle, mutta ajallisesti ja työmäärällisesti se voi helposti olla projektin suurin osuus. Dokumentaation tärkein merkitys onkin ylläpitovaiheen toiminnan helpottaminen. Jälkikäteen on tärkeää päästä todentamaan, miksi asioita on tehty ja miksi jotakin toista asiaa ei kenties ole valittukaan toteutettavaksi. Myös virheet ja väärät valinnat on nimittäin syytä dokumentoida. Luonnollisesti myös ohjelmistoprojektin rakentamisen aikana henkilöstöä vaihtuu tai siirtyy projektin osasta toiseen. Jo tässä vaiheessa dokumentointi on tärkeää, jotta henkilöt tietävät, mitä ja miten kuuluu tehdä.
 
